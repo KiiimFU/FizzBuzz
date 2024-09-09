@@ -75,3 +75,4 @@ class FizzBuzzWhile {
         return i;
     }
 }
+
